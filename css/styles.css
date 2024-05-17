@@ -172,3 +172,6 @@ ul {
 .contact-link:focus {
     color: #404bbf;
 }
+a {
+    text-decoration: none;
+}
